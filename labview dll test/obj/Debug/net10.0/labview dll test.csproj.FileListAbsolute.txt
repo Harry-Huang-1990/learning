@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.AssemblyInfo.cs
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.sourcelink.json
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\bin\Debug\net10.0\labview dll test.exe
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\bin\Debug\net10.0\labview dll test.deps.json
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\bin\Debug\net10.0\labview dll test.runtimeconfig.json
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\bin\Debug\net10.0\labview dll test.dll
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\bin\Debug\net10.0\labview dll test.pdb
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\bin\Debug\net10.0\InteropAssembly.dll
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview .30426008.Up2Date
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.dll
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\refint\labview dll test.dll
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.pdb
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\labview dll test.genruntimeconfig.cache
+C:\Users\Administrator\Documents\HHR CODE\git\labview dll test\obj\Debug\net10.0\ref\labview dll test.dll

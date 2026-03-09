@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="InteropAssembly">
+      <HintPath>lib\InteropAssembly.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.LabVIEW.Interop">
+      <HintPath>lib\NationalInstruments.LabVIEW.Interop.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

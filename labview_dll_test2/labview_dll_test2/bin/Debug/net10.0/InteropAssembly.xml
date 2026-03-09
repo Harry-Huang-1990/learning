@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>InteropAssembly</name>
+  </assembly>
+  <members>
+    <member name="M:InteropAssembly.LabVIEWExports.add_lab(System.Double,System.Double,System.Double@)">
+      <summary></summary>
+      <returns>Void</returns>
+    </member>
+  </members>
+</doc>
