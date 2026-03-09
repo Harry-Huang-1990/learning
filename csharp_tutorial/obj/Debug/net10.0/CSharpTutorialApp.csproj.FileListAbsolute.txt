@@ -1,0 +1,14 @@
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\bin\Debug\net10.0\CSharpTutorialApp.exe
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\bin\Debug\net10.0\CSharpTutorialApp.deps.json
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\bin\Debug\net10.0\CSharpTutorialApp.runtimeconfig.json
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\bin\Debug\net10.0\CSharpTutorialApp.dll
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\bin\Debug\net10.0\CSharpTutorialApp.pdb
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.AssemblyInfoInputs.cache
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.AssemblyInfo.cs
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.dll
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\refint\CSharpTutorialApp.dll
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.pdb
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\CSharpTutorialApp.genruntimeconfig.cache
+c:\Users\Administrator\Documents\HHR CODE\git\csharp_tutorial\obj\Debug\net10.0\ref\CSharpTutorialApp.dll
