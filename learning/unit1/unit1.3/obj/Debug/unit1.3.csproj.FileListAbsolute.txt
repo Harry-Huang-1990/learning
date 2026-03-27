@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\bin\Debug\unit1.3.exe.config
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\bin\Debug\unit1.3.exe
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\bin\Debug\unit1.3.pdb
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\obj\Debug\unit1.3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\obj\Debug\unit1.3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\obj\Debug\unit1.3.exe
+C:\Users\Administrator\Documents\HHR CODE\git\learning\unit1\unit1.3\obj\Debug\unit1.3.pdb
