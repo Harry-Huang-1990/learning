@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../DAL/DAL.csproj" />
+  <Project Path="../test/test.csproj" Id="a2afe72b-ca03-4071-8102-f7fcfdd4f2d7" />
+  <Project Path="WinFormsApp1.csproj" />
+</Solution>

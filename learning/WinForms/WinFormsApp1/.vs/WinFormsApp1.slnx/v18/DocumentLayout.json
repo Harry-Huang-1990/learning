@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\administrator\\documents\\hhr code\\git\\learning\\winforms\\dal\\modbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\administrator\\documents\\hhr code\\git\\learning\\winforms\\winformsapp1\\formmodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:formmodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\administrator\\documents\\hhr code\\git\\learning\\winforms\\dal\\crc16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\WinFormsApp1\\formmodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:formmodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormModbus.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\WinFormsApp1\\FormModbus.cs",
+              "RelativeDocumentMoniker": "FormModbus.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\WinFormsApp1\\FormModbus.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormModbus.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:32:37.403Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormModbus.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\WinFormsApp1\\FormModbus.cs",
+              "RelativeDocumentMoniker": "FormModbus.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\WinFormsApp1\\FormModbus.cs",
+              "RelativeToolTip": "FormModbus.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:34:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRC16.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\DAL\\CRC16.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\CRC16.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\DAL\\CRC16.cs",
+              "RelativeToolTip": "..\\DAL\\CRC16.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAxwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:16:43.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modbus.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\DAL\\Modbus.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Modbus.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\HHR CODE\\git\\learning\\WinForms\\DAL\\Modbus.cs",
+              "RelativeToolTip": "..\\DAL\\Modbus.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswHgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T01:11:56.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
